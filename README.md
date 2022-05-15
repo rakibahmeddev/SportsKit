@@ -10,6 +10,8 @@
 - Custom Hooks
 - Inventory Page
 - SingleInventoryItem
+- Add items
+- Many more
 
 ## Technology that I have used
 
