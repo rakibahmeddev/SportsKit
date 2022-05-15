@@ -9,7 +9,10 @@
 ## Technology that I have used
 
 - react js
-- react-bootsrap
+- react-bootstrap
 - react router
 - axios
--
+- react icons
+- react toastify
+- firebase
+- firebase hooks
