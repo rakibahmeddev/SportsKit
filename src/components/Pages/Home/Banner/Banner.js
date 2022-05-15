@@ -34,7 +34,7 @@ const Banner = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://i.ibb.co/fDGYkR2/All-jersey-Collections-1.png"
+            src="https://image.shutterstock.com/image-vector/happy-new-year-2022-banner-260nw-2067224297.jpg"
             alt="Third slide"
           />
           <Carousel.Caption className="shadow-lg bg-primary text-white rounded">
