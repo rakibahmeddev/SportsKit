@@ -23,7 +23,7 @@ const Header = () => {
       >
         <Container>
           <Navbar.Brand className="fs-3" as={Link} to="/">
-            SportsWizard
+            SportsKit
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
