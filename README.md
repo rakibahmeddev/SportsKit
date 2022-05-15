@@ -9,3 +9,7 @@
 ## Technology that I have used
 
 - react js
+- react-bootsrap
+- react router
+- axios
+-
