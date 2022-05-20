@@ -9,7 +9,7 @@ const InventoryItems = ({ item }) => {
   const handleDelete = (id) => {
     const sure = window.confirm("Are you sure ?");
     if (sure) {
-      const url = `https://blooming-sands-24397.herokuapp.com/product/${id}`;
+      const url = `https://nameless-brook-52284.herokuapp.com/product/${id}`;
       fetch(url, {
         method: "DELETE",
       })
